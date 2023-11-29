@@ -1,5 +1,5 @@
 # cig-lethalcompanymods
-This is the repo for the mods used for Lethal Company by the CIG group.
+This is the repo for the mods used by the CIG group.
 
 # Installation
 To install just copy all files into the root game folder where your LethalCompany.exe is located.
